@@ -1,5 +1,7 @@
 
 
+Hej
+
 pwd - Nuvarande mapp
 
 ls - Lista allt i mappen
