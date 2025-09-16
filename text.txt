@@ -1,8 +1,22 @@
-Hej
 
-Detta är text
 
-Hej
+pwd - Nuvarande mapp
+
+ls - Lista allt i mappen
+
+cd - byt mapp
+
+cd .. - navigera upp en nivå
+
+claear - rensa terminalen
+
+ls -a - lista även gömda filer
+
+git init - initierar ett git projekt
+
+git status - visa status på projektet
+
+
 
 Lathund för git
 Setup:
