@@ -16,6 +16,10 @@ git init - initierar ett git projekt
 
 git status - visa status på projektet
 
+git add . - addera allt till staging area
+
+git commit -m "meddelande" - commita koden
+
 
 
 Lathund för git
